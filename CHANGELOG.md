@@ -1,5 +1,13 @@
 # Changelog
 
+### [2.3.1](https://www.github.com/Teletha/sinobu/compare/v2.3.0...v2.3.1) (2021-07-04)
+
+
+### Bug Fixes
+
+* XML can escape '&' correctly. ([6104912](https://www.github.com/Teletha/sinobu/commit/61049123e7624bd494cebe4999e90c0415e260ea))
+* XML#attr and #tagName returns emptry string if the specified ([327d76d](https://www.github.com/Teletha/sinobu/commit/327d76d382b62f544d0eabce1167dc74759ab022))
+
 ## [2.3.0](https://www.github.com/Teletha/sinobu/compare/v2.2.2...v2.3.0) (2021-04-18)
 
 
